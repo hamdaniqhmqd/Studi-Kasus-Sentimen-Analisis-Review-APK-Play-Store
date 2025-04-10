@@ -1,7 +1,3 @@
-Berikut adalah contoh isi `README.md` lengkap dengan **penjelasan proyek**, **langkah instalasi virtual environment**, dan **cara install dependensi dari `requirements.txt`**:
-
----
-
 ## 📊 Sentiment Analysis using Machine Learning
 
 Proyek ini merupakan studi kasus analisis sentimen dari ulasan aplikasi Android (Google Play Store) menggunakan pendekatan _Machine Learning_. Data dikumpulkan menggunakan `google-play-scraper`, diproses dengan Natural Language Processing (NLP) tools, lalu diklasifikasikan menggunakan beberapa algoritma seperti:
