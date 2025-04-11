@@ -26,8 +26,8 @@ Tujuannya adalah untuk mengklasifikasikan sentimen pengguna terhadap aplikasi ap
 ### 1. Clone repositori (jika tersedia di GitHub)
 
 ```bash
-git clone https://github.com/username/repo-sentiment-analysis.git
-cd repo-sentiment-analysis
+git clone https://github.com/hamdaniqhmqd/Studi-Kasus-Sentimen-Analisis-Review-APK-Play-Store.git
+cd Studi-Kasus-Sentimen-Analisis-Review-APK-Play-Store
 ```
 
 ### 2. Buat dan aktifkan Virtual Environment
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ```python
 import nltk
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 ```
 
